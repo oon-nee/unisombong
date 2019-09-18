@@ -1,0 +1,61 @@
+.container {
+        width: 900px;
+    margin: 0 auto;
+}
+    .header {
+        background-color: #eee;
+        min-height: 50px;
+    }
+
+.header {
+    background-color: #eee;
+    min-height: 0px;
+    text-align: center;
+}
+.logo img {
+    width: 200px;
+}
+.menu ul {
+    padding: 0;
+}
+.menu ul li {
+    display: inline-block;
+}
+.menu ul li a {
+padding: 10px 100px;
+text-decoration: none;
+}
+
+        .header {
+            background-color: #eee;
+            min-height: 50px;
+        }
+        .content {
+            background-color: #ddd;
+            min-height: 500px;
+        }
+        .footer {
+            background-color: #ccc;
+            min-height: 50px;
+        }
+
+ table,
+    th,
+    td{
+
+    }
+ 
+    table{
+        border-collapse: collapse;
+        width: 100%;
+    }
+ 
+    th{
+        height: 50px;
+    }
+ 
+    th,
+    td{
+        padding: 15px 50px;
+        text-align: left;
+    }
